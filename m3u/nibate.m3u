@@ -1,49 +1,35 @@
 #EXTM3U
 
-#sbs
-#mbc
-#jtbc
-#채널A
-#mbn
-
-
 #SBS
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/225px-Seoul_Broadcasting_System_logo.svg.png" ,SBS
 https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUyNjI4ODAsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjVkMmM4N2Y3LWI2NjYtNGI0MS04YzZlLTE2NDc4NjYzNWZkYyIsImlhdCI6MTcyNTI1NTY4MH0.jJoSKcjhGbXAw02XkeILRN1aAKpn66PK8iRWLR4RyKE&solsessionid=686354cc656dd00f827d098f455cdcd0
-
 
 #KBS2
 #EXTINF:-1 tvg-id="KBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Undefined",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
 
-
 #KBS1
 #EXTINF:-1 tvg-id="KBS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Undefined",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
 
-
 #MBC
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://imgur.com/U3lsmaA.png" group-title="Undefined",MBC
 https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=62F15514C39C33E41540D56B3A31214BD55C3415540232E03760C1a6260B3FC611a0337A3F326D4EC0863851E7b61170C95A1C59C38191C83C12634954695027B1BD6D591AB99F5DA52820C69AFD9080BE358B82BADB62A3E65DFAD7D1DE86C06FF3E35608ECA8DA889148A3B493FAAACB9A1E513F3F8A5BF030E4719412266A&v=3
-
 
 #JTBC
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/VsfGIUk.png" group-title="Undefined",JTBC
 #https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D637AFC.m3u8
 https://jtbclive-cdn.jtbc.co.kr/pcweb/newpcweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTI5ODk1N30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=XmLpKmaAT8EBCl4sGPbrgkCZt8%7Ei1yAyzkC8hZb8a3FQun1grgM-FFbXpD6avRGBtQuY8QrXiwiVQPASz5wNl8L59GAZEt7nqYm2MgOejgK37unUkMnhgn%7EyZura7omZMU8lCqJv1WysBKZ4W31VFDXwpHmPtWeHebfm7kb0cdc_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 
-
 #채널A
 #EXTINF:-1 tvg-id="채널A" tvg-logo="https://i.imgur.com/Pu29gAN.png" group-title="Undefined",채널A
 #https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjUzMjc3OTV9.zL6OE_daLniCBE6vsHParF2YkdG2RDBE06TBYdOWQh0
 
-
 #TV조선
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/7AzOwd2.png" group-title="General",TV CHOSUN
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-
 
 #MBN
 #EXTINF:-1 tvg-id="MBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MBN_%EB%A1%9C%EA%B3%A0.png/225px-MBN_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",MBN
@@ -53,26 +39,28 @@ https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQi
 #TVN 보류
 #EXTINF:-1 tvg-id="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/225px-Logo_tvN.svg.png" group-title="Undefined",TVN
 #EXTVLCOPT:http-referrer=https://www.tving.com/player/C00551
-https://jtbc-mcdn.tving.com/jtbc/live2000.smil/chunklist_b2128000.m3u8
+#https://jtbc-mcdn.tving.com/jtbc/live2000.smil/chunklist_b2128000.m3u8
 
 #YTN
 #EXTINF:-1 tvg-id="YTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/225px-YTN_logo_2014.svg.png" group-title="Undefined",YTN
-plugin://plugin.video.youtube/play/?video_id=FJfwehhzIhw
+#plugin://plugin.video.youtube/play/?video_id=FJfwehhzIhw
 
 #연합뉴스TV
 #EXTINF:-1 tvg-id="연합뉴스TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV_%EB%A1%9C%EA%B3%A0.png/225px-%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",연합뉴스TV
-plugin://plugin.video.youtube/play/?video_id=6QZ_qc75ihU
+#plugin://plugin.video.youtube/play/?video_id=6QZ_qc75ihU
+
+
+
+
+
+
 
 #EBS
 #EXTINF:-1 tvg-id="EBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/225px-EBS_1TV_Logo.svg.png" group-title="Undefined",EBS 1
-https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-
+#https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EBS2
 #EXTINF:-1 tvg-id="EBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/587px-EBS_2_logo.svg.png" group-title="Undefined",EBS 2
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-
-
-
+#https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #NATV 국회
 #EXTINF:-1 tvg-id="NATV" tvg-logo="https://www.natv.go.kr/images/natv/logo.png" group-title="Undefined",국회방송
 #https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
@@ -94,9 +82,6 @@ https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #KFN 국방
 #EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/hFhtk0U.png" group-title="Undefined",KFN 국방TV
 #https://mediaworks.dema.mil.kr/live_edge/cudo.sdp/chunklist_w847465137.m3u8
-
-
-#KBS 서브채널 전부 OFF
 #KBS드라마
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Series",KBS Drama
 #http://mytv.dothome.co.kr/ch/catv/2.php
