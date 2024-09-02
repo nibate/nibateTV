@@ -1,95 +1,26 @@
 #EXTM3U
 
-#SBS
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/225px-Seoul_Broadcasting_System_logo.svg.png" ,SBS
-#
+https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/t.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUyOTYyMDMsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjFhYjZjOTdjLTM1ZmItNDMwZi05NTNmLTgyNzdmYzJkZjA0OCIsImlhdCI6MTcyNTI4OTAwM30.-joZ6Jhknhsxb4O3TUH-fhs7z5-CCc18y2uGzPqfphM&solsessionid=ed26752b4ab4555748c30000b6edc472
 
-#KBS2
-#EXTINF:-1 tvg-id="KBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Undefined",KBS 2TV
+#EXTINF:-1 tvg-id="KBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="General",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
 
-#KBS1
-#EXTINF:-1 tvg-id="KBS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Undefined",KBS 1TV
+#EXTINF:-1 tvg-id="KBS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="General",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
 
-#MBC
-#EXTINF:-1 tvg-id="MBC" tvg-logo="https://imgur.com/U3lsmaA.png" group-title="Undefined",MBC
-#
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://imgur.com/U3lsmaA.png" group-title="General",MBC
+https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.t.m3u8?e=1725296418&h=4ef58b8e181a1f96aab6449a8abae09b
 
-#JTBC
-#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/VsfGIUk.png" group-title="Undefined",JTBC
-#https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D637AFC.m3u8
-#
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/VsfGIUk.png" group-title="General",JTBC
+https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.t.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTMzNDExNn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=iOn2DxtnLy64mDagOKe-dzo0QUrOuoYIWDtIHMjGd5Uff7ZaxjPF5%7EZjlgrvzfngv3uq19mUIb2NGmAmic7G2KNCqC5wyDEQMXP8didZCD%7EDLHQcwIaI64dnM6feY6KrDlPQesjJ3xeEFuG84LIcEsL3P1qjVyeoW1xJVNfxFf0_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 
-#채널A
-#EXTINF:-1 tvg-id="채널A" tvg-logo="https://i.imgur.com/Pu29gAN.png" group-title="Undefined",채널A
-#https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
-#
+#EXTINF:-1 tvg-id="채널A" tvg-logo="https://i.imgur.com/Pu29gAN.png" group-title="General",채널A
+https://channelaid3.ichannela.com/atv3/chunklist.t.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjUzNjI5MTZ9.dsvrvHOOwhZFmTfGSh56QFsliWx2O89jtTHSgseYORM
 
-#TV조선
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/7AzOwd2.png" group-title="General",TV CHOSUN
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 
-#MBN
-#EXTINF:-1 tvg-id="MBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MBN_%EB%A1%9C%EA%B3%A0.png/225px-MBN_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",MBN
-#EXTVLCOPT:http-referrer=http://mytv.dothome.co.kr/
-#https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8
-
-
-
-#TVN 보류
-#EXTINF:-1 tvg-id="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/225px-Logo_tvN.svg.png" group-title="Undefined",TVN
-#EXTVLCOPT:http-referrer=https://www.tving.com/player/C00551
-#https://jtbc-mcdn.tving.com/jtbc/live2000.smil/chunklist_b2128000.m3u8
-#YTN
-#EXTINF:-1 tvg-id="YTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/225px-YTN_logo_2014.svg.png" group-title="Undefined",YTN
-#plugin://plugin.video.youtube/play/?video_id=FJfwehhzIhw
-#연합뉴스TV
-#EXTINF:-1 tvg-id="연합뉴스TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV_%EB%A1%9C%EA%B3%A0.png/225px-%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",연합뉴스TV
-#plugin://plugin.video.youtube/play/?video_id=6QZ_qc75ihU
-#EBS
-#EXTINF:-1 tvg-id="EBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/225px-EBS_1TV_Logo.svg.png" group-title="Undefined",EBS 1
-#https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EBS2
-#EXTINF:-1 tvg-id="EBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/587px-EBS_2_logo.svg.png" group-title="Undefined",EBS 2
-#https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#NATV 국회
-#EXTINF:-1 tvg-id="NATV" tvg-logo="https://www.natv.go.kr/images/natv/logo.png" group-title="Undefined",국회방송
-#https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
-#KTV 국민
-#EXTINF:-1 tvg-id="KTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/KTV_logo.svg/225px-KTV_logo.svg.png" group-title="Undefined",KTV 국민방송
-#https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#ABN 아름
-#EXTINF:-1 tvg-id="ABN" tvg-logo="https://i.imgur.com/yQqiUpH.png" group-title="Undefined",ABN 아름방송
-#https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_412.m3u8
-#OBS 경인
-#EXTINF:-1 tvg-id="OBS" tvg-logo="https://www.obs.co.kr/renewal/assets/img/desktop/OBS.png" group-title="Undefined",OBS 경인방송
-#https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_55.m3u8
-#TBS 시민
-#EXTINF:-1 tvg-id="TBS" tvg-logo="https://tbs.seoul.kr/common/images/gnb/logo.png" group-title="Undefined",TBS 시민의 방송
-#https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-#NBS 농업
-#EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Undefined",NBS 농업방송
-#https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#KFN 국방
-#EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/hFhtk0U.png" group-title="Undefined",KFN 국방TV
-#https://mediaworks.dema.mil.kr/live_edge/cudo.sdp/chunklist_w847465137.m3u8
-#KBS드라마
-#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Series",KBS Drama
-#http://mytv.dothome.co.kr/ch/catv/2.php
-#KBS조이
-#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="Undefined",KBS Joy
-#http://mytv.dothome.co.kr/ch/catv/3.php
-#KBS키즈
-#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Kids",KBS Kids
-#http://mytv.dothome.co.kr/ch/catv/6.php
-#KBS라이프
-#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="Undefined",KBS Life
-#http://mytv.dothome.co.kr/ch/catv/5.php
-#KBS스토리
-#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="Undefined",KBS Story
-#http://mytv.dothome.co.kr/ch/catv/4.php
-#KBS월드
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World
-#http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 tvg-id="MBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MBN_%EB%A1%9C%EA%B3%A0.png/225px-MBN_%EB%A1%9C%EA%B3%A0.png" group-title="General",MBN
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTM3NzMxN30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=TXSLo6DY4hi-ioLK5ZonqAEcD8FXRIDaAtvAhNhpPgVuUIrIhKbh1zCbI3xtVW-ZNZpuPAvMjBVNQsEW1eNP6d5NzAKKVFwiDIprAL-IN1N-Uzj8cHD6eD2Jr9~Inng6j00SbvYZZSZweCYRjxcSGKTZEKcuhYQtktjRPZcPQZ0_&Key-Pair-Id=pub_hls-live.mbn.co.kr
