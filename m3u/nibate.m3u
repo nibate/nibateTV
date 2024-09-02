@@ -14,7 +14,7 @@ http://mytv.dothome.co.kr/ch/public/1.php
 
 #MBC
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://imgur.com/U3lsmaA.png" group-title="Undefined",MBC
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1_B862A42B.m3u8
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 #JTBC
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/VsfGIUk.png" group-title="Undefined",JTBC
@@ -34,7 +34,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #MBN
 #EXTINF:-1 tvg-id="MBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MBN_%EB%A1%9C%EA%B3%A0.png/225px-MBN_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",MBN
 #EXTVLCOPT:http-referrer=http://mytv.dothome.co.kr/
-https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTM1MTY0NX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=0EqGPDxQMpWybP3CJCL2lzqWCtUdKpxk4~mX8hXIGPlISNqryAo323BLmFY5rPoTR1tFmpkTwODoMa5VwYieTiFZAJY5WdNwYey9ZSLlKo8ZLE1RNOVw7Z7W~S3JayvEh7twSx9AGMkrrK4BNAvAu2suBw9qLPQqeg~HS7TbTxw_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTM1MjU1M30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=bM8r4Z7kvf73HMthwMjo8TqrfjcF-2AC3J6D3QlhXj3fxicokAAJiCxcXcsUxdlc5qoqitNKKtBXuzodz90-bxdxPGrVqSayFYJu6SkWVRxOju3onD2W7HGhFlWkNzI-5wj00LxW~~XdAVuSr-gPixrr~S-reKlPISCZqFDfyw0_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 
 
 
