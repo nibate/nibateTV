@@ -2,7 +2,7 @@
 
 #SBS
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/225px-Seoul_Broadcasting_System_logo.svg.png" ,SBS
-https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUyNzI4MjQsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImMyOWY4ZmQwLTRkYTItNGNiOS1iZjUzLWI2MjgxMjU3ODZlMSIsImlhdCI6MTcyNTI2NTYyNH0.OXphBnKdrrSa42JztPq6ps5ppK30-7bs9RPF7EIl3A4&solsessionid=02a360eabdee24f892d0329a4171ad1a
+https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUyNzUwOTQsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImExZDllNWY3LWVlNmUtNGIwMi05ODc4LTM1ZGJiYzk0ZjliMSIsImlhdCI6MTcyNTI2Nzg5NH0.47-wdfQ71nH3GKs-HM5OtHmatd75AkrsxZn3_octwOU&solsessionid=69966ab45652ee30d80aa79d656f7321
 
 #KBS2
 #EXTINF:-1 tvg-id="KBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Undefined",KBS 2TV
@@ -19,12 +19,12 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #JTBC
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/VsfGIUk.png" group-title="Undefined",JTBC
 #https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D637AFC.m3u8
-https://jtbclive-cdn.jtbc.co.kr/pcweb/newpcweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTMwODg3Mn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QQhmkhMzH09gTw0N2dWVDtkn-yPW%7Et1%7EJKXmw9EbdiSxbv59ga3A5qavhDAr1RbHECO2iJ0xTHQ9yIJiW4DIKlVu8ItA8-sspoVmlSmDE1PdAeD9X8GjXlBIR08gEyAnNLUN2qszuIaMgZpA15Gqds1g4kKrRQ%7EYJwFlnkw2XqI_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+https://jtbclive-cdn.jtbc.co.kr/pcweb/newpcweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTMxMTEyOX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=UoW9mQ4RocMdokme5DplMPZ%7EJ6WW6oSlVm9qYdLbsCkn0k4L0opa-Tz3ogMroo36hu9JzHKqlQfMsndGDBHmna3xPj40olktX7dbdFvJAf6bp-vHbIHCPYQHHeMTlc3guaIaPqDy%7E--Zv49n3eMXXi6l%7ES5scwJhHibHhL7IM54_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 
 #채널A
 #EXTINF:-1 tvg-id="채널A" tvg-logo="https://i.imgur.com/Pu29gAN.png" group-title="Undefined",채널A
 #https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjUzMzc3MDF9.Vh-kusBy1exIvLt0hYHKcEKD6cD63Oc35ZS5IBHyGYA
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjUzNDAwOTN9.BTX3r4jdWGdyH3cbVB5fpOnf6nnOv1DCWZqPlUEE550
 
 #TV조선
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/7AzOwd2.png" group-title="General",TV CHOSUN
@@ -34,7 +34,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #MBN
 #EXTINF:-1 tvg-id="MBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MBN_%EB%A1%9C%EA%B3%A0.png/225px-MBN_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",MBN
 #EXTVLCOPT:http-referrer=http://mytv.dothome.co.kr/
-https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTM1MjU1M30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=bM8r4Z7kvf73HMthwMjo8TqrfjcF-2AC3J6D3QlhXj3fxicokAAJiCxcXcsUxdlc5qoqitNKKtBXuzodz90-bxdxPGrVqSayFYJu6SkWVRxOju3onD2W7HGhFlWkNzI-5wj00LxW~~XdAVuSr-gPixrr~S-reKlPISCZqFDfyw0_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTM1NDUyMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Fvz1G~YC4wjZw9ySuU58JEZGgBwcvwt5pmeRoQZZfatZcPLSLl0aLVi8JPdOevk~edYJRbNyupyLeUq166hdjEkM8x6ajFFkIPJPJaOR~RezCuqewKP7F6MD9vMv9G~Jv4AwLjEtTx0B2Jo94kFYtJcDxYC8~7UpN-E0SOl89Bg_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 
 
 
