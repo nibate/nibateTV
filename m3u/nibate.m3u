@@ -2,7 +2,7 @@
 
 #SBS
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/225px-Seoul_Broadcasting_System_logo.svg.png" ,SBS
-https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUyNzUwOTQsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImExZDllNWY3LWVlNmUtNGIwMi05ODc4LTM1ZGJiYzk0ZjliMSIsImlhdCI6MTcyNTI2Nzg5NH0.47-wdfQ71nH3GKs-HM5OtHmatd75AkrsxZn3_octwOU&solsessionid=69966ab45652ee30d80aa79d656f7321
+http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUyODE5MTAsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImYzNzM1MTUwLTk2MTYtNDA2MS1hZjgzLWYzNjJmYmMzMTJhZSIsImlhdCI6MTcyNTI3NDcxMH0.lLdz8WtNMwZzjFp3NiVUP6NndMXgbhrxO9JTW3Mfdt0&solsessionid=39dc0cad2f476f447f5bc7e053171c39
 
 #KBS2
 #EXTINF:-1 tvg-id="KBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Undefined",KBS 2TV
