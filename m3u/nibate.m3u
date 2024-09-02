@@ -2,7 +2,7 @@
 
 #SBS
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/225px-Seoul_Broadcasting_System_logo.svg.png" ,SBS
-http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUyODE5MTAsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImYzNzM1MTUwLTk2MTYtNDA2MS1hZjgzLWYzNjJmYmMzMTJhZSIsImlhdCI6MTcyNTI3NDcxMH0.lLdz8WtNMwZzjFp3NiVUP6NndMXgbhrxO9JTW3Mfdt0&solsessionid=39dc0cad2f476f447f5bc7e053171c39
+#
 
 #KBS2
 #EXTINF:-1 tvg-id="KBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Undefined",KBS 2TV
@@ -14,17 +14,17 @@ http://mytv.dothome.co.kr/ch/public/1.php
 
 #MBC
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://imgur.com/U3lsmaA.png" group-title="Undefined",MBC
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#
 
 #JTBC
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/VsfGIUk.png" group-title="Undefined",JTBC
 #https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D637AFC.m3u8
-https://jtbclive-cdn.jtbc.co.kr/pcweb/newpcweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTMxMTEyOX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=UoW9mQ4RocMdokme5DplMPZ%7EJ6WW6oSlVm9qYdLbsCkn0k4L0opa-Tz3ogMroo36hu9JzHKqlQfMsndGDBHmna3xPj40olktX7dbdFvJAf6bp-vHbIHCPYQHHeMTlc3guaIaPqDy%7E--Zv49n3eMXXi6l%7ES5scwJhHibHhL7IM54_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+#
 
 #채널A
 #EXTINF:-1 tvg-id="채널A" tvg-logo="https://i.imgur.com/Pu29gAN.png" group-title="Undefined",채널A
 #https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjUzNDAwOTN9.BTX3r4jdWGdyH3cbVB5fpOnf6nnOv1DCWZqPlUEE550
+#
 
 #TV조선
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/7AzOwd2.png" group-title="General",TV CHOSUN
@@ -34,7 +34,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #MBN
 #EXTINF:-1 tvg-id="MBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MBN_%EB%A1%9C%EA%B3%A0.png/225px-MBN_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",MBN
 #EXTVLCOPT:http-referrer=http://mytv.dothome.co.kr/
-https://hls-live.mbn.co.kr/mbn-on-air/600k/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTM1NDc2NH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=JEGRMHLRKEBh1M682923ZWu3efizjIoX21q2hpS0%7EBKpmKfdL05L-2Q%7EEnWUkPcTO3ip-U%7EtkDN-6tc9ijFB7EeTM2vzEIvRrL2BjDnJ4pTx5aevjJAsBgOZDxegmELFdYmSDYeJH0L9n8Ws2YDyNAi78olBj-q2SDkec4C4Au4_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+#
 
 
 
