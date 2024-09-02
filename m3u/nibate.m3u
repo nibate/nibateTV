@@ -34,7 +34,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #MBN
 #EXTINF:-1 tvg-id="MBN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MBN_%EB%A1%9C%EA%B3%A0.png/225px-MBN_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",MBN
 #EXTVLCOPT:http-referrer=http://mytv.dothome.co.kr/
-https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTM1NDcxOX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=BZDf5hFb39la~~-gQjODxRz5HbaEngl-sYTtSwX67lQYxBkU5nZYA7L8LfsXoKgk4qKQr003d7LfqIiLiU9WIoCjjtZrueP8Si9ns-IaSpOo2Mm93PBuLZo0Xt17C3E5u4e1M~HAy9ANVHeOQNU904p1Mwh7m86xhYuS55sUUpo_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+https://hls-live.mbn.co.kr/mbn-on-air/600k/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTM1NDc2NH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=JEGRMHLRKEBh1M682923ZWu3efizjIoX21q2hpS0%7EBKpmKfdL05L-2Q%7EEnWUkPcTO3ip-U%7EtkDN-6tc9ijFB7EeTM2vzEIvRrL2BjDnJ4pTx5aevjJAsBgOZDxegmELFdYmSDYeJH0L9n8Ws2YDyNAi78olBj-q2SDkec4C4Au4_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 
 
 
