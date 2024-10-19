@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "name": "Alice",
+            "content": "안녕하세요, 저는 Alice입니다."
+        },
+        {
+            "name": "Bob",
+            "content": "안녕하세요, 저는 Bob입니다."
+        }
+    ]
+}
