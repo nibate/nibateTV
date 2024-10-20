@@ -1,12 +1,56 @@
 {
-    "data": [
-        {
-            "name": "Alice",
-            "content": "안녕하세요, 저는 Alice입니다."
-        },
-        {
-            "name": "Bob",
-            "content": "안녕하세요, 저는 Bob입니다."
-        }
-    ]
+  "data": [
+    {
+      "name": "bin\AnimeEx_1.Bin",
+      "content": "195fbbe1ebd82164ec67403922337a6cf50e4b44"
+    },
+    {
+      "name": "bin\AnimeInfoEx_1.Bin",
+      "content": "757af535d7b78c8733ebe36dad4c9e6ac3e6c199"
+    },
+    {
+      "name": "bin\AnimeInfoV3_8.bin",
+      "content": "42fd7f7a0c6960092be29b55becfb099322ae70d"
+    },
+    {
+      "name": "bin\AnimeInfo_4.bin",
+      "content": "452083c5b875979041df26a5667664113d15f994"
+    },
+    {
+      "name": "bin\AnimeInfo_Joy_91.bin",
+      "content": "ea469a8fffd801dd20fdc11a4b527992cbe4b540"
+    },
+    {
+      "name": "bin\AnimeInfo_Joy_CH1.Bin",
+      "content": "b46a19bc28e5e4170792851d6aed4ca3c430d5cf"
+    },
+    {
+      "name": "bin\AnimeInfo_Joy_EX_9.bin",
+      "content": "04115d8c3e5fe0526af3001502b3b8b44fff2b33"
+    },
+    {
+      "name": "bin\AnimeV3_8.bin",
+      "content": "2ef9860aada92d5d39dbd7a8beb4315fde5c0289"
+    },
+    {
+      "name": "bin\filelist.json",
+      "content": "efc044ecb7a689cb67be0ec285e696c1fb3bf48e"
+    },
+    {
+      "name": "bin\Puk3\AnimeInfo_PUK3_2.bin",
+      "content": "d334571a22f49a39bbfb158f5af4b8bb4c39a226"
+    },
+    {
+      "name": "bin\Puk3\Anime_PUK3_2.bin",
+      "content": "9be98d85337de4b201fce9e99f116b69cfee3236"
+    },
+    {
+      "name": "bin\Puk3\GraphicInfo_PUK3_1.bin",
+      "content": "36c52c4f035af5fab76723a214cc3747389c77ae"
+    },
+    {
+      "name": "bin\Puk3\Graphic_PUK3_1.bin",
+      "content": "846b7fc5fa54be9c22e22697aa47c6bc1c551b29"
+    }
+  ]
 }
